@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[100SuperHumans]]></title>
         <description><![CDATA[100SuperHumans]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/100superhumans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 13:15:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 13:17:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/100superhumans/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About 100SuperHumans</p>]]></description>
+            <link>https://thegrid.ai/100superhumans/698eac7d-3ed7-4d3a-8e83-97e52986b438/index.html</link>
+            <guid isPermaLink="false">698eac7d-3ed7-4d3a-8e83-97e52986b438</guid>
+            <pubDate>Mon, 14 Dec 2015 13:16:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>English Teaching</p>]]></description>
-            <link>undefined1627cdf6-a69f-4734-9808-e73b8c525d9a/index.html</link>
+            <link>https://thegrid.ai/100superhumans/1627cdf6-a69f-4734-9808-e73b8c525d9a/index.html</link>
             <guid isPermaLink="false">1627cdf6-a69f-4734-9808-e73b8c525d9a</guid>
             <pubDate>Mon, 14 Dec 2015 13:15:12 GMT</pubDate>
         </item>
